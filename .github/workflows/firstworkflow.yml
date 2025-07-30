@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Print a welcome message
-      - run: echo "Welcome to first workflow"
+        run: echo "Welcome to first workflow"
